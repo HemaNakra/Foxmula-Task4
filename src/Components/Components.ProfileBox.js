@@ -7,7 +7,7 @@ function ProfileBox() {
         beds: 3,
         baths: 2,
         title: "Batch Name | PHY_B1 ",
-        studentName: "Abhijeet Prasad",
+        studentName: "Hema Nakra",
         studentCount: "125 Students",
         activityName: "Upcoming <Activity>",
         date: "Thu, 25th May"
